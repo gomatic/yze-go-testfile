@@ -3,4 +3,4 @@
 [![go](https://github.com/gomatic/yze-go-testfile/actions/workflows/go.yml/badge.svg)](https://github.com/gomatic/yze-go-testfile/actions/workflows/go.yml)
 [![release](https://github.com/gomatic/yze-go-testfile/actions/workflows/release.yml/badge.svg)](https://github.com/gomatic/yze-go-testfile/actions/workflows/release.yml)
 
-[docs](https://gomatic.github.io/docs.yze-go-testfile/)
+[docs](https://gomatic.github.io/docs.yze/)
